@@ -8,7 +8,7 @@ module.exports = {
 
 FOOTER: process.env.FOOTER || "*◆─〈 𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐕2 〉─◆*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/tC37Q7B/20241220-122443.jpg",
-AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
 MODE: process.env.MODE || "public",
 ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "false",
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
@@ -22,7 +22,7 @@ ANTI_CALL: process.env.ANTI_CALL || "false",
 
 
 
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "xStEmQSI#VLBaTVnoYRb_NC5Xhb6nQRSndlY5TsUyDW7JgJMoCDk",
 
 
 

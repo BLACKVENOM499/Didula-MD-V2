@@ -22,7 +22,7 @@ ANTI_CALL: process.env.ANTI_CALL || "false",
 
 
 
-SESSION_ID: process.env.SESSION_ID || "pLU2zSwD#jgrVvcdmSjfO_J82afahUgAontYofz7YlrJ3TLavq2c",
+SESSION_ID: process.env.SESSION_ID || "NeUSTaRZ#kflMv__9yH-bLChmzixclQw-5A9TcHLBS4QP2jjHbcY",
 
 
 

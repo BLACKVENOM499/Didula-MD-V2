@@ -1,6 +1,6 @@
 const fbDownloaderCommand = {
   pattern: 'fb',
-  react: "#️⃣",
+  react: "🥲",
   alias: ["fbdl", "facebook"],
   desc: desc1,
   category: "download",

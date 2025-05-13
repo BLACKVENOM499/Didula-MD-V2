@@ -8,7 +8,7 @@ const {
   getGroupAdmins
 } = require("../lib/functions");
 cmd({
-  'pattern': "delete",
+  'pattern': "del",
   'react': '❌',
   'alias': ["del"],
   'desc': "delete message",

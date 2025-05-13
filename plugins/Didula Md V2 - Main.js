@@ -861,7 +861,7 @@ cmd({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterName': "*◆─〈 𝐐𝐔𝐄𝐄𝐍 𝐇𝐄𝐒𝐇𝐈 𝐌𝐃 𝐕2 〉─◆*",
-          'newsletterJid': "120363378635880298@newsletter"
+          'newsletterJid': "120363400898693892@newsletter"
         },
         'externalAdReply': {
           'title': "*◆─〈 𝐐𝐔𝐄𝐄𝐍 𝐇𝐄𝐒𝐇𝐈 𝐌𝐃 𝐕2 〉─◆*",

@@ -54,7 +54,7 @@ cmd({
           'serverMessageId': 0x3e7
         },
         'externalAdReply': {
-          'title': "SOBIA-MD",
+          'title': "AKINDU MD",
           'body': '' + _0x3a7ecc,
           'mediaType': 0x1,
           'sourceUrl': '',
